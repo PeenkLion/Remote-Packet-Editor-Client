@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote Packet Editor Client", "Remote Packet Editor Client\Remote Packet Editor Client.csproj", "{A511CAE5-60DC-4A05-9377-421293BDDA74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CBC429B8-6A63-4744-86BF-E9FAF8CBEDF7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A511CAE5-60DC-4A05-9377-421293BDDA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A511CAE5-60DC-4A05-9377-421293BDDA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A511CAE5-60DC-4A05-9377-421293BDDA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A511CAE5-60DC-4A05-9377-421293BDDA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F633F1-5C6B-418E-A18F-DB8E0E4A0D11}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\Remote Packet Editor Client.exe
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\Remote Packet Editor Client.deps.json
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\Remote Packet Editor Client.runtimeconfig.json
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\Remote Packet Editor Client.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\Remote Packet Editor Client.dll
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\ref\Remote Packet Editor Client.dll
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\bin\Debug\net5.0\Remote Packet Editor Client.pdb
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.dll
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\ref\Remote Packet Editor Client.dll
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.pdb
+C:\Users\ethan\source\repos\Remote Packet Editor Client\Remote Packet Editor Client\obj\Debug\net5.0\Remote Packet Editor Client.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MO0KeWbKiyrbDUTVfRhsh9AbwXkjz98iqVI3AL2j/2L/k1Xd07VvSYTBe6+J1Gby/WYll0Ar/FpdYPzNYGD1ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\source\\repos\\Remote Packet Editor Client\\Remote Packet Editor Client\\Remote Packet Editor Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
